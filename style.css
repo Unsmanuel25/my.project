@@ -1,0 +1,71 @@
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  font-family: sans-serif;
+}
+
+#logo{
+  margin-top: 50px;
+}
+
+#sfondotrasparente{
+  background: rgba(0, 0, 0, 0.5);
+  margin-left: 400px;
+  margin-right: 400px;
+  border-radius: 15px;
+  height:900px;
+}
+
+header{
+  text-align: center;
+  height: 300px;
+  margin-top: 160px;
+}
+
+
+.container{
+  background-color: lime;
+  margin-right: 200px;
+  margin-left: 200px;
+  height: 70px;
+}
+
+.bottone{
+  border-radius: 5px;
+  position: relative;
+  top:25px;
+}
+
+main{
+  font-family: sans-serif;
+  color: white;
+  margin-left: 200px;
+  margin-top: 50px;
+}
+
+.monopattini{
+  display: inline-block;
+  margin-bottom: 1px
+}
+
+#carica1{
+  border-radius: 4px;
+  width: 300px;
+  height: 25px;
+  background-color: orange;
+}
+
+#carica2{
+  border-radius: 4px;
+  width: 600px;
+  height: 25px;
+  background-color: green;
+}
+
+#carica3{
+  border-radius: 4px;
+  width: 100px;
+  height: 25px;
+  background-color: red;
+}
